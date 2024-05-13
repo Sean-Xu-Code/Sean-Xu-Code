@@ -1,2 +1,2 @@
-# xTechCod
+# xTechCode
 add one line
